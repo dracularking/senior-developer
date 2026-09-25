@@ -3,8 +3,8 @@
 An Agent Skill that makes AI coding assistants work like a senior software
 engineer — not a code generator.
 
-It encodes **Clean Code + SOLID + KISS / DRY / YAGNI + TDD + root-cause debugging
-+ code review + anti-hallucination** into one work protocol: verify before writing,
+It encodes **Clean Code, SOLID, KISS / DRY / YAGNI, TDD, root-cause debugging,
+code review and anti-hallucination** into one work protocol: verify before writing,
 find the root cause before patching, prefer the simplest design that satisfies the
 requirement, and prove the change works before saying "done".
 
